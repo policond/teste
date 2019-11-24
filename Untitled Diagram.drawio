@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-24T11:19:29.775Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3025.0 Safari/537.36" etag="e_EC1N1Z8MH-IeLW-ymL" version="12.2.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-24T11:21:02.101Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3025.0 Safari/537.36" etag="Xkw88KmkZBXxmgjGr_nz" version="12.2.9" type="github" pages="2">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel dx="770" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -273,8 +273,8 @@
         <mxCell id="Jy4Oo53KS_WOsFD6y95R-11" value="&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Cli.&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;strokeWidth=1;" vertex="1" parent="izdePBgaHRLxN76MMXIb-1">
           <mxGeometry x="1043.5" y="460" width="90" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="Jy4Oo53KS_WOsFD6y95R-12" value="Organograma - Departamento Técinico" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=41;" vertex="1" parent="izdePBgaHRLxN76MMXIb-1">
-          <mxGeometry x="231.5" y="30" width="730" height="50" as="geometry"/>
+        <mxCell id="Jy4Oo53KS_WOsFD6y95R-12" value="Organograma - Departamento Técinico" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=37;labelPosition=center;verticalLabelPosition=middle;fontStyle=3" vertex="1" parent="izdePBgaHRLxN76MMXIb-1">
+          <mxGeometry x="246.5" y="30" width="700" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
