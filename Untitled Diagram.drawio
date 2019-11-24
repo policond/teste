@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-24T10:13:28.348Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3025.0 Safari/537.36" etag="QhYAuRXSmNdDlLbns8qF" version="12.2.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-24T10:15:26.482Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3025.0 Safari/537.36" etag="cliDt5ayZOR7TmiQp5b6" version="12.2.9" type="github" pages="2">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel dx="804" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -122,6 +122,15 @@
         </mxCell>
         <mxCell id="0TEE65AGIhRXkWMVHrGa-6" value="&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Outros&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;strokeWidth=1;" vertex="1" parent="izdePBgaHRLxN76MMXIb-1">
           <mxGeometry x="1030" y="240" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="0TEE65AGIhRXkWMVHrGa-18" value="&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Instalação&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;strokeWidth=1;" vertex="1" parent="izdePBgaHRLxN76MMXIb-1">
+          <mxGeometry x="20" y="316.5" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="0TEE65AGIhRXkWMVHrGa-19" value="&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Extenção&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;strokeWidth=1;" vertex="1" parent="izdePBgaHRLxN76MMXIb-1">
+          <mxGeometry x="20" y="391" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="0TEE65AGIhRXkWMVHrGa-20" value="&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Antena Coletiva&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;strokeWidth=1;" vertex="1" parent="izdePBgaHRLxN76MMXIb-1">
+          <mxGeometry x="20" y="465.5" width="90" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
