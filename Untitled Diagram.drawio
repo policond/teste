@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-01T11:03:07.698Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3025.0 Safari/537.36" etag="hMh33au461EZZY85Glfi" version="12.3.3" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-01T11:03:25.860Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3025.0 Safari/537.36" etag="X8TwghcjsGSRZ_-Lex7g" version="12.3.3" type="github" pages="4">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel dx="1010" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -376,7 +376,7 @@
           <mxGeometry x="40" y="680" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="3OyDMsdARVvF-gFFqvzz-0" value="alvaro" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" parent="xOvDZEdbGV89iZtSwiis-1" vertex="1">
-          <mxGeometry x="180" y="20" width="170" height="50" as="geometry">
+          <mxGeometry x="180" y="20" width="170" height="150" as="geometry">
             <mxRectangle x="120" y="10" width="70" height="26" as="alternateBounds"/>
           </mxGeometry>
         </mxCell>
