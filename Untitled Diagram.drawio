@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-01T11:08:06.438Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3025.0 Safari/537.36" etag="kqBb9T3Nxpy6RYrhvVrY" version="12.3.3" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-01T12:37:18.864Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3025.0 Safari/537.36" etag="Ia879tqlnWSGy8KYhP3U" version="12.3.3" type="github" pages="4">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel dx="1010" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -291,6 +291,9 @@
         </mxCell>
         <mxCell id="Dw2Ih1lKagDSzFaHfVTy-3" value="&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Cerca Elét &amp;amp; Sensor Per&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;strokeWidth=1;" vertex="1" parent="izdePBgaHRLxN76MMXIb-1">
           <mxGeometry x="1050" y="307" width="84" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="eXZYL1XI3gKXlK19K9tU-0" value="&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Serralheria&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;" vertex="1" parent="izdePBgaHRLxN76MMXIb-1">
+          <mxGeometry x="376.5" y="649" width="92" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
