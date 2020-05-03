@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.0.6" pages="4" etag="JBKM1JLKKKfF6509X7oj" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-05-03T19:48:23.226Z" host="www.draw.io">
+<mxfile type="github" version="13.0.6" pages="4" etag="EbOS5tBt05wfeLPgrmB4" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-05-03T20:10:09.465Z" host="www.draw.io">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" math="0" pageHeight="2339" pageWidth="3300" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="621" dx="1195" background="#ffffff" shadow="0">
       <root>
@@ -236,12 +236,12 @@
         </mxCell>
         <mxCell id="XWmnxbT3tjLZ1vYqQ-oa-12" value="" parent="1" edge="1" style="endArrow=none;html=1;">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" y="359" x="1150" />
-            <mxPoint as="targetPoint" y="322.75" x="1180" />
+            <mxPoint as="sourcePoint" y="233.75" x="1310" />
+            <mxPoint as="targetPoint" y="197.5" x="1340" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XWmnxbT3tjLZ1vYqQ-oa-14" value="FIM" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" width="50" height="30" y="349" x="1200" />
+          <mxGeometry as="geometry" width="50" height="30" y="195" x="1350" />
         </mxCell>
         <mxCell id="cPj9RKFQusdOc-EY2o44-1" value="" parent="1" edge="1" style="endArrow=none;html=1;">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
@@ -294,16 +294,10 @@
             <mxPoint as="targetPoint" y="177.5" x="910" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o2l1VY3LRS6g5cDFKKmf-10" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
-          <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" y="532.5" x="990" />
-            <mxPoint as="targetPoint" y="532.5" x="1020" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="o2l1VY3LRS6g5cDFKKmf-11" value="" parent="1" edge="1" style="endArrow=none;html=1;">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" y="556" x="1019.5" />
-            <mxPoint as="targetPoint" y="510" x="1019.5" />
+            <mxPoint as="sourcePoint" y="696" x="1269" />
+            <mxPoint as="targetPoint" y="650" x="1269" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2l1VY3LRS6g5cDFKKmf-12" value="Postergar, Antecipar" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
@@ -373,7 +367,7 @@
           <mxGeometry as="geometry" width="50" height="30" y="241.25" x="1190" />
         </mxCell>
         <mxCell id="o2l1VY3LRS6g5cDFKKmf-32" value="Sol. P/ Postergar, Antecipar, Cancelar. Orç. At.Consertos." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" width="140" height="42.5" y="423.75" x="960" />
+          <mxGeometry as="geometry" width="140" height="42.5" y="630" x="1350" />
         </mxCell>
         <mxCell id="CP50LfMuFyxSBHZw2Znx-5" value="" parent="1" edge="1" style="endArrow=none;html=1;">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
@@ -466,6 +460,36 @@
           <mxGeometry as="geometry" relative="1" width="50" height="50">
             <mxPoint as="sourcePoint" y="475.25" x="508.75" />
             <mxPoint as="targetPoint" y="475.25" x="538.75" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-42" value="Supervisão, Baixa, Faz, Entrega Rota, Conferi Orçamentos, Vistorias, Revisões. Orienta da suporte aos técnicos." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="140" height="100" y="420" x="562.5" />
+        </mxCell>
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-43" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="572.5" x="730" />
+            <mxPoint as="targetPoint" y="372.5" x="730" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-44" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="372.5" x="730" />
+            <mxPoint as="targetPoint" y="372.5" x="760" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-45" value="Téc. Baixa Rota Do Dia Anterior. Recebe Rota do Dia." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="140" height="42.5" y="360" x="770" />
+        </mxCell>
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-46" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="680" x="1220" />
+            <mxPoint as="targetPoint" y="680" x="1250" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-47" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="395.5" x="980" />
+            <mxPoint as="targetPoint" y="349.5" x="980" />
           </mxGeometry>
         </mxCell>
       </root>
