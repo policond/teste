@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.0.5" host="www.draw.io" modified="2020-05-03T11:07:52.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="ORMSCo2MIPVCGV3wISj4" pages="4">
+<mxfile type="github" version="13.0.5" host="www.draw.io" modified="2020-05-03T11:09:14.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="GkEuBfDntPiT-HCc3BR9" pages="4">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel shadow="0" background="#ffffff" grid="1" dx="1195" dy="621" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0">
       <root>
@@ -190,10 +190,10 @@
           <mxGeometry x="820" height="32.5" width="60" as="geometry" y="62.5" />
         </mxCell>
         <mxCell id="9r6yQ5_XE6KU1Mb98sbQ-35" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="CTRO. Passa OSe p/ Tec." parent="1" vertex="1">
-          <mxGeometry x="790" height="40" width="110" as="geometry" y="350" />
+          <mxGeometry x="1020" height="40" width="70" as="geometry" y="106.25" />
         </mxCell>
         <mxCell id="9r6yQ5_XE6KU1Mb98sbQ-36" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&amp;nbsp;CTRO. Dig. OSE. na Rota" parent="1" vertex="1">
-          <mxGeometry x="600" height="40" width="100" as="geometry" y="350" />
+          <mxGeometry x="910" height="40" width="70" as="geometry" y="113.13" />
         </mxCell>
         <mxCell id="9r6yQ5_XE6KU1Mb98sbQ-37" style="endArrow=classic;html=1;" value="" parent="1" edge="1">
           <mxGeometry height="50" width="50" as="geometry" relative="1">
@@ -217,6 +217,18 @@
           <mxGeometry height="50" width="50" as="geometry" relative="1">
             <mxPoint x="900" as="sourcePoint" y="91" />
             <mxPoint x="900" as="targetPoint" y="62.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9r6yQ5_XE6KU1Mb98sbQ-44" style="endArrow=classic;html=1;" value="" parent="1" edge="1">
+          <mxGeometry height="50" width="50" as="geometry" relative="1">
+            <mxPoint x="990" as="sourcePoint" y="125.75" />
+            <mxPoint x="1010" as="targetPoint" y="126" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9r6yQ5_XE6KU1Mb98sbQ-45" style="endArrow=none;html=1;" value="" parent="1" edge="1">
+          <mxGeometry height="50" width="50" as="geometry" relative="1">
+            <mxPoint x="1010" as="sourcePoint" y="141.63" />
+            <mxPoint x="1010" as="targetPoint" y="113.13" />
           </mxGeometry>
         </mxCell>
       </root>
