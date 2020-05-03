@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.0.6" host="www.draw.io" modified="2020-05-03T17:35:16.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="NngFiVfi5crGDrIElzkD" pages="4">
+<mxfile type="github" version="13.0.6" host="www.draw.io" modified="2020-05-03T17:36:11.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="V3BcfWTJ963DgjX21gHD" pages="4">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" shadow="0" background="#ffffff" dx="1195" dy="621" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0">
       <root>
@@ -66,8 +66,8 @@
         </mxCell>
         <mxCell id="uc1aDl2WZFb7yHckePc8-32" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
           <mxGeometry as="geometry" height="50" width="50" relative="1">
-            <mxPoint as="sourcePoint" x="240" y="289.5" />
-            <mxPoint as="targetPoint" x="270" y="289.5" />
+            <mxPoint as="sourcePoint" x="240" y="320.75" />
+            <mxPoint as="targetPoint" x="270" y="320.75" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uc1aDl2WZFb7yHckePc8-35" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
@@ -409,7 +409,7 @@
           <mxGeometry as="geometry" height="30" width="50" x="1080" y="243.75" />
         </mxCell>
         <mxCell id="o2l1VY3LRS6g5cDFKKmf-32" value="Sol. P/ Postergar, Antecipar, Cancelar. Orç. At.Consertos." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" height="42.5" width="140" x="280" y="273.75" />
+          <mxGeometry as="geometry" height="42.5" width="140" x="280" y="300" />
         </mxCell>
       </root>
     </mxGraphModel>
