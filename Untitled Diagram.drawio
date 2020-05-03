@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.0.6" pages="4" etag="7Dt17nFWVs0g2_QjsKQZ" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-05-03T20:48:29.370Z" host="www.draw.io">
+<mxfile type="github" version="13.0.6" pages="4" etag="fQQqubWX02NRU4tljYmx" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-05-03T21:14:30.068Z" host="www.draw.io">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" math="0" pageHeight="2339" pageWidth="3300" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="621" dx="1195" background="#ffffff" shadow="0">
       <root>
@@ -569,6 +569,21 @@
         </mxCell>
         <mxCell id="CP50LfMuFyxSBHZw2Znx-67" value="Téc. Atende o Cliente Conforme Rota, Se houver a necessidade de encaixar serviços, será atendido conforme avaliação do seu supervisor." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" width="320" height="57.5" y="297.5" x="1210" />
+        </mxCell>
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-69" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="325.75" x="1540" />
+            <mxPoint as="targetPoint" y="326" x="1560" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-70" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="340" x="1560" />
+            <mxPoint as="targetPoint" y="311.5" x="1560" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-71" value="Téc. baixara os serviços concluídos junto ao controle de rotas e informara o próximo serviço, conforme normas da empresa." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="300" height="65" y="293.75" x="1560" />
         </mxCell>
       </root>
     </mxGraphModel>
