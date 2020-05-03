@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.0.6" pages="4" etag="93JM-dOBkdv7OrkvnFBo" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-05-03T19:35:40.999Z" host="www.draw.io">
+<mxfile type="github" version="13.0.6" pages="4" etag="QmbIoSrRTqg9hkz7uj2J" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-05-03T19:42:30.471Z" host="www.draw.io">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" math="0" pageHeight="2339" pageWidth="3300" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="621" dx="1195" background="#ffffff" shadow="0">
       <root>
@@ -435,11 +435,11 @@
         <mxCell id="CP50LfMuFyxSBHZw2Znx-28" value="3º Sup. CATV" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" width="77.5" height="20" y="456.25" x="392.5" />
         </mxCell>
-        <mxCell id="CP50LfMuFyxSBHZw2Znx-33" value="5º Sup. CATV" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" width="77.5" height="20" y="590" x="702.5" />
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-33" value="5º Sup. Port. Noturno." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="126.25" height="20" y="560" x="390" />
         </mxCell>
-        <mxCell id="CP50LfMuFyxSBHZw2Znx-30" value="4º Sup. CATV" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" width="80" height="20" y="510" x="391.25" />
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-30" value="4º Sup. Port. Diurno." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="118.75" height="20" y="510" x="390" />
         </mxCell>
         <mxCell id="CP50LfMuFyxSBHZw2Znx-32" value="1º Sup. CATV" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" width="80" height="20" y="362.5" x="390" />
