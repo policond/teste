@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.0.6" host="www.draw.io" modified="2020-05-03T16:24:48.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="4aW_oZrvQERzaxSOrVAL" pages="4">
+<mxfile type="github" version="13.0.6" host="www.draw.io" modified="2020-05-03T16:27:56.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="haP4t5BRAAvKJBIAArjQ" pages="4">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" shadow="0" background="#ffffff" dx="1195" dy="621" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0">
       <root>
@@ -70,7 +70,7 @@
             <mxPoint as="targetPoint" x="270" y="289.5" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uc1aDl2WZFb7yHckePc8-34" value="Sol. P/ Postergar, Antecipar, Cancelar. Orç. At." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+        <mxCell id="uc1aDl2WZFb7yHckePc8-34" value="Sol. P/ Postergar, Antecipar, Cancelar. Orç. Elevador" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" height="40" width="140" x="280" y="270" />
         </mxCell>
         <mxCell id="uc1aDl2WZFb7yHckePc8-35" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
@@ -249,8 +249,8 @@
         <mxCell id="XWmnxbT3tjLZ1vYqQ-oa-4" value="CRTO. &lt;font color=&quot;#cc0066&quot;&gt;põem OS. na pasta correspondente, conforme agenda.&lt;br&gt;&lt;/font&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" height="53.75" width="210" x="910" y="51.88" />
         </mxCell>
-        <mxCell id="XWmnxbT3tjLZ1vYqQ-oa-5" value="CTRO. Digita OS. Na Rota" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" height="40" width="70" x="1190" y="330" />
+        <mxCell id="XWmnxbT3tjLZ1vYqQ-oa-5" value="Sol. p/&amp;nbsp;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" height="70" width="170" x="580" y="490" />
         </mxCell>
         <mxCell id="XWmnxbT3tjLZ1vYqQ-oa-6" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
           <mxGeometry as="geometry" height="50" width="50" relative="1">
