@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.0.6" pages="4" etag="fQQqubWX02NRU4tljYmx" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-05-03T21:14:30.068Z" host="www.draw.io">
+<mxfile type="github" version="13.0.6" pages="4" etag="igBWF8WGdHuLkMS3Cdpd" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-05-03T21:16:56.636Z" host="www.draw.io">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" math="0" pageHeight="2339" pageWidth="3300" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="621" dx="1195" background="#ffffff" shadow="0">
       <root>
@@ -584,6 +584,33 @@
         </mxCell>
         <mxCell id="CP50LfMuFyxSBHZw2Znx-71" value="Téc. baixara os serviços concluídos junto ao controle de rotas e informara o próximo serviço, conforme normas da empresa." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" width="300" height="65" y="293.75" x="1560" />
+        </mxCell>
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-72" value="Téc. Faz requisição" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="50" height="20" y="400" x="1050" />
+        </mxCell>
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-73" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="423.75" x="1120" />
+            <mxPoint as="targetPoint" y="424" x="1140" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-74" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="438.5" x="1140" />
+            <mxPoint as="targetPoint" y="410" x="1140" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-75" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="603.75" x="1040" />
+            <mxPoint as="targetPoint" y="604" x="1060" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-76" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="618.5" x="1060" />
+            <mxPoint as="targetPoint" y="590" x="1060" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
