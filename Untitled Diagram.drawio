@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.0.6" host="www.draw.io" modified="2020-05-03T16:58:56.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="qLWARGuHhH03NeMK_GQm" pages="4">
+<mxfile type="github" version="13.0.6" host="www.draw.io" modified="2020-05-03T16:59:18.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="79fNVgg0JY__rbm6AuXQ" pages="4">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" shadow="0" background="#ffffff" dx="1195" dy="621" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry as="geometry" height="40" width="140" x="280" y="87.5" />
         </mxCell>
         <mxCell id="uc1aDl2WZFb7yHckePc8-22" value="Sol. P/ Postergar, Antecipar, Cancelar. Orç. At. Elevador, Consertos, Instalações." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" height="85" width="120" x="280" y="185" />
+          <mxGeometry as="geometry" height="65" width="150" x="280" y="185" />
         </mxCell>
         <mxCell id="uc1aDl2WZFb7yHckePc8-30" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
           <mxGeometry as="geometry" height="50" width="50" relative="1">
