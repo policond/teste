@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.0.6" host="www.draw.io" modified="2020-05-03T16:34:46.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="t5f2tteKPz06k2SJ6k37" pages="4">
+<mxfile type="github" version="13.0.6" host="www.draw.io" modified="2020-05-03T16:38:23.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="uacwEGScnHywynYurXQY" pages="4">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" shadow="0" background="#ffffff" dx="1195" dy="621" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0">
       <root>
@@ -49,8 +49,8 @@
         <mxCell id="uc1aDl2WZFb7yHckePc8-21" value="Sol. P/ Dia Seguinte, Porém pode ser encaixado no dia. &quot;Todos os Produtos&quot;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" height="40" width="140" x="280" y="87.5" />
         </mxCell>
-        <mxCell id="uc1aDl2WZFb7yHckePc8-22" value="Sol. P/ Postergar, Antecipar, Cancelar. Orç. At., Instalações Dep. Vendas, Elevador." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" height="40" width="140" x="280" y="190" />
+        <mxCell id="uc1aDl2WZFb7yHckePc8-22" value="Sol. P/ Postergar, Antecipar, Cancelar. Orç. At., Instalações Dep. Vendas, Elevador. Aprovar." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" height="80" width="140" x="280" y="180" />
         </mxCell>
         <mxCell id="uc1aDl2WZFb7yHckePc8-30" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
           <mxGeometry as="geometry" height="50" width="50" relative="1">
@@ -78,9 +78,6 @@
             <mxPoint as="sourcePoint" x="150" y="417" />
             <mxPoint as="targetPoint" x="180" y="417" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="uc1aDl2WZFb7yHckePc8-36" value="Sol. P/ Novos Orç. Postergar, antecipar, cancelar, Orç. Aprovados, Elevador." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" height="40" width="140" x="280" y="372.5" />
         </mxCell>
         <mxCell id="uc1aDl2WZFb7yHckePc8-37" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
           <mxGeometry as="geometry" height="50" width="50" relative="1">
