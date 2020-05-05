@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.0.6" host="www.draw.io" modified="2020-05-05T23:44:30.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="6sSN_pTM9nuGdOTnkhzu" pages="4">
+<mxfile type="github" version="13.0.6" host="www.draw.io" modified="2020-05-05T23:48:42.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="OXNFuwUWODyUQa2Cl7NW" pages="4">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" shadow="0" background="#ffffff" dx="1195" dy="621" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0">
       <root>
@@ -710,6 +710,33 @@
         </mxCell>
         <mxCell id="I5sMSCQiwnwnEj7dxC86-21" value="Almox, Analisa Req. esta ok, Libera Material." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" height="42.5" width="90" x="1760" y="362.5" />
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-22" value="" parent="1" style="endArrow=none;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="1889" y="606" />
+            <mxPoint as="targetPoint" x="1889" y="560" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-23" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="1860" y="582.5" />
+            <mxPoint as="targetPoint" x="1890" y="582.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-24" value="" parent="1" style="endArrow=none;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="1880" y="405.5" />
+            <mxPoint as="targetPoint" x="1880" y="359.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-25" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="1850" y="381.5" />
+            <mxPoint as="targetPoint" x="1880" y="381.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-26" value="Téc. Recebe Material, Confere, estado físico, numero de etiqueta, funcionalidade do equipamento." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" height="42.5" width="200" x="1880" y="361.25" />
         </mxCell>
       </root>
     </mxGraphModel>
