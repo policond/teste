@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.0.6" host="www.draw.io" modified="2020-05-06T00:10:58.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="tc0mUgRQvUzGgjLNC2oW" pages="4">
+<mxfile type="github" version="13.0.6" host="www.draw.io" modified="2020-05-06T00:19:16.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="BImXF9tGyALsCr8v1wv_" pages="4">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" shadow="0" background="#ffffff" dx="1195" dy="621" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0">
       <root>
@@ -820,22 +820,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I5sMSCQiwnwnEj7dxC86-50" value="Téc. Recebe Material, Confere, estado físico, numero de etiqueta, funcionalidade do equipamento." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" height="42.5" width="200" x="2570" y="312.5" />
+          <mxGeometry as="geometry" height="42.5" width="130" x="2570" y="312.5" />
         </mxCell>
         <mxCell id="I5sMSCQiwnwnEj7dxC86-51" value="" parent="1" style="endArrow=none;html=1;" edge="1">
           <mxGeometry as="geometry" height="50" width="50" relative="1">
-            <mxPoint as="sourcePoint" x="2799" y="362.5" />
-            <mxPoint as="targetPoint" x="2799" y="316.5" />
+            <mxPoint as="sourcePoint" x="2739" y="360" />
+            <mxPoint as="targetPoint" x="2739" y="314" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I5sMSCQiwnwnEj7dxC86-52" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
           <mxGeometry as="geometry" height="50" width="50" relative="1">
-            <mxPoint as="sourcePoint" x="2770" y="339" />
-            <mxPoint as="targetPoint" x="2800" y="339" />
+            <mxPoint as="sourcePoint" x="2710" y="336.5" />
+            <mxPoint as="targetPoint" x="2740" y="336.5" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I5sMSCQiwnwnEj7dxC86-53" value="Tec. Segue rota, atende os clientes conforme orientação da supervisão, se houver encaixe de serviço será atendido conforme avaliação da supervisão." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" height="42.5" width="200" x="2800" y="317.5" />
+          <mxGeometry as="geometry" height="72.5" width="200" x="2740" y="297.5" />
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-54" value="" parent="1" style="endArrow=none;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="2979" y="357.5" />
+            <mxPoint as="targetPoint" x="2979" y="311.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-55" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="2950" y="334" />
+            <mxPoint as="targetPoint" x="2980" y="334" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-56" value="Téc. baixará os serviços é indicara os próximos serviços conforme orientação da supervisão. dia seguinte baixara os serviços do dia anterior.&amp;nbsp;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" height="42.5" width="200" x="2980" y="317.5" />
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-57" value="" parent="1" style="endArrow=none;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="3200" y="360" />
+            <mxPoint as="targetPoint" x="3210" y="310" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-58" value="FIM" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" height="15" width="30" x="3210" y="331.25" />
         </mxCell>
       </root>
     </mxGraphModel>
