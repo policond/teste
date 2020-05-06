@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.0.6" host="www.draw.io" modified="2020-05-05T23:48:42.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="OXNFuwUWODyUQa2Cl7NW" pages="4">
+<mxfile type="github" version="13.0.6" host="www.draw.io" modified="2020-05-06T00:10:58.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="tc0mUgRQvUzGgjLNC2oW" pages="4">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" shadow="0" background="#ffffff" dx="1195" dy="621" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0">
       <root>
@@ -713,14 +713,14 @@
         </mxCell>
         <mxCell id="I5sMSCQiwnwnEj7dxC86-22" value="" parent="1" style="endArrow=none;html=1;" edge="1">
           <mxGeometry as="geometry" height="50" width="50" relative="1">
-            <mxPoint as="sourcePoint" x="1889" y="606" />
-            <mxPoint as="targetPoint" x="1889" y="560" />
+            <mxPoint as="sourcePoint" x="2459" y="586" />
+            <mxPoint as="targetPoint" x="2459" y="540" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I5sMSCQiwnwnEj7dxC86-23" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
           <mxGeometry as="geometry" height="50" width="50" relative="1">
-            <mxPoint as="sourcePoint" x="1860" y="582.5" />
-            <mxPoint as="targetPoint" x="1890" y="582.5" />
+            <mxPoint as="sourcePoint" x="2430" y="562.5" />
+            <mxPoint as="targetPoint" x="2460" y="562.5" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I5sMSCQiwnwnEj7dxC86-24" value="" parent="1" style="endArrow=none;html=1;" edge="1">
@@ -737,6 +737,105 @@
         </mxCell>
         <mxCell id="I5sMSCQiwnwnEj7dxC86-26" value="Téc. Recebe Material, Confere, estado físico, numero de etiqueta, funcionalidade do equipamento." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" height="42.5" width="200" x="1880" y="361.25" />
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-27" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="2080" y="381.5" />
+            <mxPoint as="targetPoint" x="2110" y="381.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-28" value="Material esta ok" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" height="42.5" width="60" x="2110" y="361.25" />
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-29" value="" parent="1" style="endArrow=none;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="2200" y="420" />
+            <mxPoint as="targetPoint" x="2200" y="330" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-30" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="2170" y="381.5" />
+            <mxPoint as="targetPoint" x="2200" y="381.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-32" value="Sim" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" height="17.5" width="30" x="2220" y="410" />
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-33" value="Não" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" height="17.5" width="30" x="2220" y="322.5" />
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-35" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="2200" y="419" />
+            <mxPoint as="targetPoint" x="2220" y="419" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-36" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="2200" y="329.5" />
+            <mxPoint as="targetPoint" x="2220" y="329.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-38" value="Téc. Devolve material no ato, junto ao responsável&amp;nbsp;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" height="42.5" width="130" x="2280" y="312.5" />
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-39" value="" parent="1" style="endArrow=none;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="2280" y="353" />
+            <mxPoint as="targetPoint" x="2280" y="307" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-40" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="2250" y="330.75" />
+            <mxPoint as="targetPoint" x="2280" y="330.75" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-41" value="" parent="1" style="endArrow=none;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="2439" y="354.25" />
+            <mxPoint as="targetPoint" x="2439" y="308.25" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-42" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="2410" y="330.75" />
+            <mxPoint as="targetPoint" x="2440" y="330.75" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-45" value="Almox Substitui material danificado&amp;nbsp;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" height="42.5" width="100" x="2440" y="310" />
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-46" value="" parent="1" style="endArrow=none;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="2569" y="356.75" />
+            <mxPoint as="targetPoint" x="2569" y="310.75" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-47" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="2540" y="333.25" />
+            <mxPoint as="targetPoint" x="2570" y="333.25" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-50" value="Téc. Recebe Material, Confere, estado físico, numero de etiqueta, funcionalidade do equipamento." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" height="42.5" width="200" x="2570" y="312.5" />
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-51" value="" parent="1" style="endArrow=none;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="2799" y="362.5" />
+            <mxPoint as="targetPoint" x="2799" y="316.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-52" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
+          <mxGeometry as="geometry" height="50" width="50" relative="1">
+            <mxPoint as="sourcePoint" x="2770" y="339" />
+            <mxPoint as="targetPoint" x="2800" y="339" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5sMSCQiwnwnEj7dxC86-53" value="Tec. Segue rota, atende os clientes conforme orientação da supervisão, se houver encaixe de serviço será atendido conforme avaliação da supervisão." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" height="42.5" width="200" x="2800" y="317.5" />
         </mxCell>
       </root>
     </mxGraphModel>
