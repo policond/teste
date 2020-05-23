@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.0.8" pages="4" etag="i4ZZZANdyZhiyc7wEGNP" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" modified="2020-05-23T16:02:48.100Z" host="www.draw.io">
+<mxfile type="github" version="13.0.8" pages="4" etag="OPQiOkLErxk68E44roIX" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" modified="2020-05-23T16:13:02.751Z" host="www.draw.io">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" math="0" pageHeight="2339" pageWidth="3300" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="621" dx="1195" background="#ffffff" shadow="0">
       <root>
@@ -1000,82 +1000,97 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-39" value="Ger. analisa se a necessidade de cancelamento." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" width="100" height="42.5" y="456.25" x="2330" />
+          <mxGeometry as="geometry" width="70" height="42.5" y="456.25" x="2330" />
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-41" value="" parent="1" edge="1" style="endArrow=none;html=1;">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" y="502.25" x="2469" />
-            <mxPoint as="targetPoint" y="456.25" x="2469" />
+            <mxPoint as="sourcePoint" y="498.75" x="2440" />
+            <mxPoint as="targetPoint" y="452.75" x="2440" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-42" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" y="478.75" x="2440" />
-            <mxPoint as="targetPoint" y="478.75" x="2470" />
+            <mxPoint as="sourcePoint" y="478.56" x="2410" />
+            <mxPoint as="targetPoint" y="478.56" x="2440" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-45" value="Almox. sol. ao dep. de compras que providencie os mat. conforme&amp;nbsp; solicitação." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" width="100" height="42.5" y="456.25" x="2470" />
+          <mxGeometry as="geometry" width="100" height="42.5" y="454.38" x="2440" />
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-46" value="" parent="1" edge="1" style="endArrow=none;html=1;">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" y="502.25" x="2609" />
-            <mxPoint as="targetPoint" y="456.25" x="2609" />
+            <mxPoint as="sourcePoint" y="500.38" x="2570" />
+            <mxPoint as="targetPoint" y="454.38" x="2570" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-47" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" y="478.75" x="2580" />
-            <mxPoint as="targetPoint" y="478.75" x="2610" />
+            <mxPoint as="sourcePoint" y="477" x="2540" />
+            <mxPoint as="targetPoint" y="477" x="2570" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-48" value="Compras Providencia os matérias sol. conforme requisição." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" width="100" height="42.5" y="456.25" x="2610" />
+          <mxGeometry as="geometry" width="100" height="42.5" y="456.25" x="2570" />
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-49" value="" parent="1" edge="1" style="endArrow=none;html=1;">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" y="500.5" x="2739" />
-            <mxPoint as="targetPoint" y="454.5" x="2739" />
+            <mxPoint as="sourcePoint" y="500.38" x="2690" />
+            <mxPoint as="targetPoint" y="454.38" x="2690" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-50" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" y="477" x="2710" />
-            <mxPoint as="targetPoint" y="477" x="2740" />
+            <mxPoint as="sourcePoint" y="478.56" x="2660" />
+            <mxPoint as="targetPoint" y="478.56" x="2690" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-51" value="Compras entrega os mat. p/ o almox. confere e recebe" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" width="100" height="42.5" y="456.25" x="2750" />
+          <mxGeometry as="geometry" width="90" height="42.5" y="457.81" x="2690" />
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-52" value="" parent="1" edge="1" style="endArrow=none;html=1;">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" y="500.5" x="2899" />
-            <mxPoint as="targetPoint" y="454.5" x="2899" />
+            <mxPoint as="sourcePoint" y="500.5" x="2810" />
+            <mxPoint as="targetPoint" y="454.5" x="2810" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-53" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" y="477" x="2870" />
-            <mxPoint as="targetPoint" y="477" x="2900" />
+            <mxPoint as="sourcePoint" y="476.25" x="2780" />
+            <mxPoint as="targetPoint" y="476.25" x="2810" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-54" value="Almox. comunica ao dep. CTRO.&amp;nbsp;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" width="100" height="42.5" y="456.25" x="2900" />
+          <mxGeometry as="geometry" width="70" height="42.5" y="456.25" x="2810" />
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-55" value="" parent="1" edge="1" style="endArrow=none;html=1;">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" y="496.76" x="3049" />
-            <mxPoint as="targetPoint" y="450.76" x="3049" />
+            <mxPoint as="sourcePoint" y="500.5" x="2910" />
+            <mxPoint as="targetPoint" y="454.5" x="2910" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-56" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" y="473.26" x="3020" />
-            <mxPoint as="targetPoint" y="473.26" x="3050" />
+            <mxPoint as="sourcePoint" y="478.56" x="2880" />
+            <mxPoint as="targetPoint" y="478.56" x="2910" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OftaQaWH9Qnyf3U8TrNK-57" value="CTRO. comuina a supervisão. conforme procedimento. Sup. Abaliza após anace, decide se encaixa os. no dia ou no dia seguinte.&amp;nbsp;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" width="130" height="95.62" y="432.5" x="3050" />
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-57" value="CTRO. comuina a supervisão. conforme procedimento. Sup. Analiza após anace, decide se encaixa os. no dia ou no dia seguinte.&amp;nbsp;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="130" height="95.62" y="441.25" x="2910" />
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-62" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="513.76" x="3070" />
+            <mxPoint as="targetPoint" y="433.76" x="3070" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-63" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="473.26" x="3040" />
+            <mxPoint as="targetPoint" y="473.26" x="3070" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-64" value="&#39; verificar este fluxo pois como faz parte de compra de matérias ao fazer o fluxo do almox verifique." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="130" height="95.62" y="434.38" x="3090" />
         </mxCell>
       </root>
     </mxGraphModel>
