@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.0.8" pages="4" etag="L4R0s1oIBh0z5AjSLNY2" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" modified="2020-05-23T15:36:40.970Z" host="www.draw.io">
+<mxfile type="github" version="13.0.8" pages="4" etag="i4ZZZANdyZhiyc7wEGNP" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" modified="2020-05-23T16:02:48.100Z" host="www.draw.io">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" math="0" pageHeight="2339" pageWidth="3300" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="621" dx="1195" background="#ffffff" shadow="0">
       <root>
@@ -986,6 +986,96 @@
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-36" value="Sup. Sol. ao Resp. CTRO. que comunique o almox referente ao material. em caráter de urgência se for o caso." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" width="140" height="68.75" y="441.25" x="1970" />
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-37" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="502.25" x="2329" />
+            <mxPoint as="targetPoint" y="456.25" x="2329" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-38" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="478.75" x="2300" />
+            <mxPoint as="targetPoint" y="478.75" x="2330" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-39" value="Ger. analisa se a necessidade de cancelamento." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="100" height="42.5" y="456.25" x="2330" />
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-41" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="502.25" x="2469" />
+            <mxPoint as="targetPoint" y="456.25" x="2469" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-42" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="478.75" x="2440" />
+            <mxPoint as="targetPoint" y="478.75" x="2470" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-45" value="Almox. sol. ao dep. de compras que providencie os mat. conforme&amp;nbsp; solicitação." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="100" height="42.5" y="456.25" x="2470" />
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-46" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="502.25" x="2609" />
+            <mxPoint as="targetPoint" y="456.25" x="2609" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-47" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="478.75" x="2580" />
+            <mxPoint as="targetPoint" y="478.75" x="2610" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-48" value="Compras Providencia os matérias sol. conforme requisição." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="100" height="42.5" y="456.25" x="2610" />
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-49" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="500.5" x="2739" />
+            <mxPoint as="targetPoint" y="454.5" x="2739" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-50" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="477" x="2710" />
+            <mxPoint as="targetPoint" y="477" x="2740" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-51" value="Compras entrega os mat. p/ o almox. confere e recebe" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="100" height="42.5" y="456.25" x="2750" />
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-52" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="500.5" x="2899" />
+            <mxPoint as="targetPoint" y="454.5" x="2899" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-53" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="477" x="2870" />
+            <mxPoint as="targetPoint" y="477" x="2900" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-54" value="Almox. comunica ao dep. CTRO.&amp;nbsp;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="100" height="42.5" y="456.25" x="2900" />
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-55" value="" parent="1" edge="1" style="endArrow=none;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="496.76" x="3049" />
+            <mxPoint as="targetPoint" y="450.76" x="3049" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-56" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" y="473.26" x="3020" />
+            <mxPoint as="targetPoint" y="473.26" x="3050" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OftaQaWH9Qnyf3U8TrNK-57" value="CTRO. comuina a supervisão. conforme procedimento. Sup. Abaliza após anace, decide se encaixa os. no dia ou no dia seguinte.&amp;nbsp;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="130" height="95.62" y="432.5" x="3050" />
         </mxCell>
       </root>
     </mxGraphModel>
