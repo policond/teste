@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.1.3" host="www.draw.io" modified="2020-05-25T21:55:13.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="qtADzZL6J_xduhSFahkI" pages="4">
+<mxfile type="github" version="13.1.3" host="www.draw.io" modified="2020-05-25T21:56:33.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="vrvLi2x14zZKzaFFBdmb" pages="4">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" shadow="0" background="#ffffff" dx="1195" dy="621" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0">
       <root>
@@ -1206,12 +1206,6 @@
             <mxPoint as="targetPoint" x="2120" y="549" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GQYAP9HXtFXFAnHoJt2H-6" value="" parent="1" style="endArrow=none;html=1;" edge="1">
-          <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" x="2120" y="646" />
-            <mxPoint as="targetPoint" x="2120" y="600" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GQYAP9HXtFXFAnHoJt2H-7" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
             <mxPoint as="sourcePoint" x="2090" y="620" />
@@ -1274,6 +1268,39 @@
         </mxCell>
         <mxCell id="cpQ_mIKX7TXzakXQuAox-5" value="FIM" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" width="30" height="15" x="2780" y="551.25" />
+        </mxCell>
+        <mxCell id="cpQ_mIKX7TXzakXQuAox-6" value="" parent="1" style="endArrow=none;html=1;" edge="1">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" x="2120" y="645" />
+            <mxPoint as="targetPoint" x="2120" y="599" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpQ_mIKX7TXzakXQuAox-8" value="Tec. Segue rota, atende os clientes conforme orientação da supervisão, se houver encaixe de serviço será atendido conforme avaliação da supervisão." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="200" height="72.5" x="2120" y="592.5" />
+        </mxCell>
+        <mxCell id="cpQ_mIKX7TXzakXQuAox-9" value="" parent="1" style="endArrow=none;html=1;" edge="1">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" x="2349" y="650" />
+            <mxPoint as="targetPoint" x="2349" y="604" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpQ_mIKX7TXzakXQuAox-10" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" x="2320" y="626.5" />
+            <mxPoint as="targetPoint" x="2350" y="626.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpQ_mIKX7TXzakXQuAox-11" value="Téc. baixará os serviços é indicara os próximos serviços conforme orientação da supervisão. dia seguinte baixara os serviços do dia anterior.&amp;nbsp;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="200" height="42.5" x="2350" y="610" />
+        </mxCell>
+        <mxCell id="cpQ_mIKX7TXzakXQuAox-12" value="" parent="1" style="endArrow=none;html=1;" edge="1">
+          <mxGeometry as="geometry" relative="1" width="50" height="50">
+            <mxPoint as="sourcePoint" x="2570" y="652.5" />
+            <mxPoint as="targetPoint" x="2580" y="602.5" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpQ_mIKX7TXzakXQuAox-13" value="FIM" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" width="30" height="15" x="2580" y="623.75" />
         </mxCell>
       </root>
     </mxGraphModel>
