@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.1.3" host="www.draw.io" modified="2020-05-25T22:13:21.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="1yuK39R0HY--GBaG84pt" pages="4">
+<mxfile type="github" version="13.1.3" host="www.draw.io" modified="2020-05-25T22:18:31.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="leZH_keKQaJYxBLbppTJ" pages="4">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" shadow="0" background="#ffffff" dx="1195" dy="621" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0">
       <root>
@@ -80,7 +80,7 @@
           <mxGeometry as="geometry" width="40" height="20" x="180" y="372.5" />
         </mxCell>
         <mxCell id="9r6yQ5_XE6KU1Mb98sbQ-2" value="FLUXOGRAMA OPERACIONAL CTRO" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=29;" vertex="1">
-          <mxGeometry as="geometry" width="545" height="40" x="290" y="20" />
+          <mxGeometry as="geometry" width="545" height="40" x="1215" />
         </mxCell>
         <mxCell id="9r6yQ5_XE6KU1Mb98sbQ-8" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=29;" edge="1" source="9r6yQ5_XE6KU1Mb98sbQ-3">
           <mxGeometry as="geometry" relative="1">
