@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.1.3" host="www.draw.io" modified="2020-05-25T21:56:33.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="vrvLi2x14zZKzaFFBdmb" pages="4">
+<mxfile type="github" version="13.1.3" host="www.draw.io" modified="2020-05-25T22:06:43.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="zgC7VNaqtybKdCron_Bu" pages="4">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" shadow="0" background="#ffffff" dx="1195" dy="621" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0">
       <root>
@@ -291,12 +291,6 @@
             <mxPoint as="targetPoint" x="910" y="177.5" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o2l1VY3LRS6g5cDFKKmf-11" value="" parent="1" style="endArrow=none;html=1;" edge="1">
-          <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" x="1269" y="696" />
-            <mxPoint as="targetPoint" x="1269" y="650" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="o2l1VY3LRS6g5cDFKKmf-12" value="Postergar, Antecipar" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" width="65" height="40" x="930" y="162.5" />
         </mxCell>
@@ -362,9 +356,6 @@
         </mxCell>
         <mxCell id="o2l1VY3LRS6g5cDFKKmf-31" value="FIM" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" width="50" height="30" x="1190" y="241.25" />
-        </mxCell>
-        <mxCell id="o2l1VY3LRS6g5cDFKKmf-32" value="Sol. P/ Postergar, Antecipar, Cancelar. Orç. At.Consertos." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" width="140" height="42.5" x="1350" y="630" />
         </mxCell>
         <mxCell id="CP50LfMuFyxSBHZw2Znx-5" value="" parent="1" style="endArrow=none;html=1;" edge="1">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
@@ -476,12 +467,6 @@
         </mxCell>
         <mxCell id="CP50LfMuFyxSBHZw2Znx-45" value="Téc. Baixa, Rota Do Dia Anterior. Recebe Rota do Dia. Analisa. A Necessidade de Equipamentos?" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" width="160" height="65" x="770" y="340" />
-        </mxCell>
-        <mxCell id="CP50LfMuFyxSBHZw2Znx-46" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
-          <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" x="1240" y="672.5" />
-            <mxPoint as="targetPoint" x="1270" y="672.5" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="CP50LfMuFyxSBHZw2Znx-47" value="" parent="1" style="endArrow=none;html=1;" edge="1">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
@@ -595,18 +580,6 @@
           <mxGeometry as="geometry" relative="1" width="50" height="50">
             <mxPoint as="sourcePoint" x="1130" y="423.75" />
             <mxPoint as="targetPoint" x="1130" y="395.25" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CP50LfMuFyxSBHZw2Znx-75" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
-          <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" x="1040" y="603.75" />
-            <mxPoint as="targetPoint" x="1060" y="604" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CP50LfMuFyxSBHZw2Znx-76" value="" parent="1" style="endArrow=none;html=1;" edge="1">
-          <mxGeometry as="geometry" relative="1" width="50" height="50">
-            <mxPoint as="sourcePoint" x="1060" y="618.5" />
-            <mxPoint as="targetPoint" x="1060" y="590" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CP50LfMuFyxSBHZw2Znx-77" value="Sup. Analisa, Conferi Libera p/ o Almox." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
@@ -1174,10 +1147,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-91" value="Não" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" width="40" height="20" x="2050" y="610" />
+          <mxGeometry as="geometry" width="40" height="20" x="2050" y="540" />
         </mxCell>
         <mxCell id="OftaQaWH9Qnyf3U8TrNK-92" value="Sim" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" width="40" height="20" x="2050" y="530" />
+          <mxGeometry as="geometry" width="40" height="20" x="2050" y="610" />
         </mxCell>
         <mxCell id="JmbXHJl73Szohy4lVuB8-2" value="" parent="1" style="endArrow=classic;html=1;" edge="1">
           <mxGeometry as="geometry" relative="1" width="50" height="50">
