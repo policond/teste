@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.1.10" pages="4" etag="q_MguWgw9Qu420CxxB5I" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" modified="2020-06-08T21:08:10.743Z" host="www.draw.io">
+<mxfile type="github" version="13.1.10" pages="4" etag="QjDQc5f_Oo0YHfAyAj34" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" modified="2020-06-08T21:26:33.790Z" host="www.draw.io">
   <diagram id="42789a77-a242-8287-6e28-9cd8cfd52e62" name="Page-1">
     <mxGraphModel grid="1" math="0" pageHeight="2339" pageWidth="3300" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="621" dx="1195" background="#ffffff" shadow="0">
       <root>
@@ -455,8 +455,8 @@
         </mxCell>
         <mxCell id="CP50LfMuFyxSBHZw2Znx-43" value="" parent="1" edge="1" style="endArrow=none;html=1;">
           <mxGeometry height="50" width="50" as="geometry" relative="1">
-            <mxPoint as="sourcePoint" y="572.5" x="739" />
-            <mxPoint as="targetPoint" y="372.5" x="739" />
+            <mxPoint as="sourcePoint" y="600" x="740" />
+            <mxPoint as="targetPoint" y="372.5" x="740" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CP50LfMuFyxSBHZw2Znx-44" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
@@ -465,7 +465,7 @@
             <mxPoint as="targetPoint" y="372.5" x="770" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CP50LfMuFyxSBHZw2Znx-45" value="Téc. Baixa, Rota Do Dia Anterior. Recebe Rota do Dia. Analisa. A Necessidade de Equipamentos?" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+        <mxCell id="CP50LfMuFyxSBHZw2Znx-45" value="Téc. Recebe Rota do Dia. Analisa. A Necessidade de Equipamentos?" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry height="65" width="160" as="geometry" y="340" x="770" />
         </mxCell>
         <mxCell id="CP50LfMuFyxSBHZw2Znx-47" value="" parent="1" edge="1" style="endArrow=none;html=1;">
@@ -1265,6 +1265,15 @@
         </mxCell>
         <mxCell id="cpQ_mIKX7TXzakXQuAox-13" value="FIM" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry height="15" width="30" as="geometry" y="623.75" x="2580" />
+        </mxCell>
+        <mxCell id="Fc8AOoXoMw5zmmSR-Js3-1" value="Téc. Baixa, Rota Do Dia Anterior." parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry height="30" width="80" as="geometry" y="580" x="780" />
+        </mxCell>
+        <mxCell id="Fc8AOoXoMw5zmmSR-Js3-4" value="" parent="1" edge="1" style="endArrow=classic;html=1;">
+          <mxGeometry height="50" width="50" as="geometry" relative="1">
+            <mxPoint as="sourcePoint" y="600" x="740" />
+            <mxPoint as="targetPoint" y="600" x="770" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
